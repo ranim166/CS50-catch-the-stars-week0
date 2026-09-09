@@ -1,1 +1,1 @@
-# CS50-catch-the-stars-week0
+# CS50x-catch-the-stars-week0
